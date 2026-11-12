@@ -1,0 +1,5 @@
+This folder is intentionally empty. Model checkpoints were saved only on Kaggle,
+not uploaded to the conversation. Download them if the lecturer requests weights:
+- resnet18_centralized_best.pt
+- fl_best_5rounds.pt
+Do not substitute pretrained/untrained weights for the actual experiment checkpoints.

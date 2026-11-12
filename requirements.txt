@@ -1,0 +1,12 @@
+# Tested Kaggle run (reported by students): Python 3.13; Torch 2.11.0+cu130; Flower 1.43.0; Ray 2.55.1.
+# These are top-level dependencies, not a fully locked environment. CUDA builds are platform-specific.
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+tqdm
+torch
+torchvision
+flwr[simulation]==1.43.0
+ray==2.55.1
